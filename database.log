@@ -1,0 +1,2 @@
+2024-12-14 06:19:35,914 - ERROR - Error during dynamic search: 'DatabaseManager' object has no attribute 'search'
+2024-12-14 06:24:53,866 - ERROR - Error during dynamic search: 'DatabaseManager' object has no attribute 'search'
